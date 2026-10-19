@@ -1,4 +1,6 @@
 # MijnUnityProject
-# Kop op niveau 1
-## Kop op niveau 2
-### Kop op niveau 3
+*Schuingedrukte tekst*
+_Schuingedrukte tekst_
+
+**Vetgedrukte tekst**
+__Vetgedrukte tekst__
